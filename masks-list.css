@@ -18,6 +18,9 @@
 color: black;
 }
 
+a:hover {
+  color: #456888;
+}
 
 @media screen and (max-width: 600px) {
   .column {
