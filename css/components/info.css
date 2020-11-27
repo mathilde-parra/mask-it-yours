@@ -4,8 +4,12 @@
 	color: #456888;
 }
 
-#info-title {
+#info-title h1 {
 	color: #456888;
 	text-decoration-line: overline;
 	margin-bottom: 0px;
+}
+
+#info-title h1:hover {
+  color:  #DED958;
 }
